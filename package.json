@@ -1,0 +1,30 @@
+{
+  "name": "cordova-plugin-privacy-screen",
+  "version": "0.0.1",
+  "description": "Hides your app's contents in task manager by blurring its actual content.",
+  "cordova": {
+    "id": "cordova-plugin-privacy-screen",
+    "platforms": [
+      "ios"
+    ]
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/qplix/cordova-plugin-privacy-screen.git"
+  },
+  "keywords": [
+    "privacy",
+	"blur",
+	"task-manager",
+	"sensitive",
+    "cordova",
+    "ecosystem:cordova",
+    "cordova-ios"
+  ],
+  "author": "Philip Schäfer <philip.schaefer@qplix.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/qplix/cordova-plugin-privacy-screen/issues"
+  },
+  "homepage": "https://github.com/qplix/cordova-plugin-privacy-screen"
+}
